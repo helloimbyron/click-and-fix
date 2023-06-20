@@ -1,0 +1,24 @@
+.form-floating > .form-control::placeholder {
+  color: revert;
+}
+
+.form-floating > .form-control:not(:focus)::placeholder {
+  color: transparent;
+}
+
+/* Don't show arrows: browser based on Chromium  */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Don't show arrows: Firefox  */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+textarea {
+  /* height: 100px; */
+  resize: none;
+}

@@ -1,0 +1,40 @@
+{
+  "servicesList": [
+    {
+      "id": "serviceItem1",
+      "name": "Cambio de aceite",
+      "price": 50,
+      "duration": 60
+    },
+    {
+      "id": "serviceItem2",
+      "name": "Cambio de frenos",
+      "price": 100,
+      "duration": 120
+    },
+    {
+      "id": "serviceItem3",
+      "name": "Alineación y balanceo",
+      "price": 35,
+      "duration": 90
+    },
+    {
+      "id": "serviceItem4",
+      "name": "Diagnóstico general",
+      "price": 15,
+      "duration": 30
+    },
+    {
+      "id": "serviceItem5",
+      "name": "Revisión del sistema eléctrico",
+      "price": 10,
+      "duration": 45
+    },
+    {
+      "id": "serviceItem6",
+      "name": "Revisión de la suspensión",
+      "price": 10,
+      "duration": 30
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "dataFormTemplate": {
+    "clientName": "",
+    "clientPhone": "",
+    "clientEmail": "",
+    "clientIdType": "",
+    "clientIdNumber": "",
+    "carBrand": "",
+    "carModel": "",
+    "carLicensePlate": "",
+    "carTankLevel": "",
+    "carExternalState": "",
+    "services": [],
+    "timeRegister": "",
+    "timeDelivery": ""
+  }
+}
